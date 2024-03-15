@@ -1,4 +1,4 @@
-# EDA and Modeling Project
+# Customer Churn Analysis - EDA and Modeling
 
 ## Overview
 
